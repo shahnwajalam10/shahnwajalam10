@@ -10,8 +10,6 @@
 ### 🧑‍💻 About Me
 
 - 💼 Full Stack Developer specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
-- 🔭 Currently working on **SmartInventory_App** – an intelligent inventory management platform with real-time features and AI-based demand forecasting.
-- 🌱 Continuously learning **DevOps**, **System Design**, and advanced **Backend Development**.
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, or anything JavaScript.
 - 📈 Solved 300+ problems on **LeetCode**, **CodeChef**, and **GeeksforGeeks**.
 - 🤝 Open to collaboration on open-source projects and freelance work.
@@ -54,9 +52,9 @@ Tools      : Git, GitHub, Postman, VS Code
 
 ### 📫 Connect With Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** [shahnwajalam10@gmsil.com](mailto:shahnwajalam10@gmsil.com)  
+- 💼 **Portfolio:** [my-portfolio-phi-roan-42.vercel.app](https://my-portfolio-phi-roan-42.vercel.app/)  
+- 🔗 **LinkedIn:** [linkedin.com/in/shahnwaj-alam-b08415206](https://www.linkedin.com/in/shahnwaj-alam-b08415206/)
 
 ---
 
