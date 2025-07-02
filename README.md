@@ -60,7 +60,7 @@
 ## 🧩 CURRENTLY LEARNING
 
 ```
-📦 Next.js  
+📦 React.js  
 🧾 TypeScript  
 🏗️ System Design  
 📐 Low-Level & High-Level Architecture  
@@ -98,7 +98,6 @@
 
 ## 🏅 ACHIEVEMENTS
 
-- 🧠 300+ DSA Questions Solved  
 - 🔥 LeetCode 50+ Day Streak  
 - ⚒️ Built 15+ Full Stack Projects  
 - 🏫 Masai School Graduate (MERN Track)  
