@@ -1,65 +1,55 @@
-<h1 align="center">Hi, I'm Shahnwaj Alam 👋</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer | Lifelong Learner</h3>
+<h1 align="center">🧱 Hi, I'm Shahnwaj Alam 👋</h1>
+<h3 align="center">⚙️ Software Engineer | 🔁 MERN Stack Developer | 🚀 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahnwajalam10&label=Profile+Views&color=0e75b6&style=flat" alt="shahnwajalam10" />
+  <img src="https://komarev.com/ghpvc/?username=shahnwajalam10&label=Profile+Views&color=black&style=flat-square" alt="shahnwajalam10" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, or anything JavaScript.
-- 📈 Solved 300+ problems on **LeetCode**, **CodeChef**, and **GeeksforGeeks**.
-- 🤝 Open to collaboration on open-source projects and freelance work.
-- ⚡ Fun fact: I love turning ideas into real-world web applications!
-
----
-
-### 🛠️ Tech Stack
-
-```bash
-Frontend   : React.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
-Backend    : Node.js, Express.js, RESTful APIs
-Database   : MongoDB, Mongoose
-Deployment : Vercel, Netlify, Firebase
-Tools      : Git, GitHub, Postman, VS Code
-```
+🧱 Full Stack Developer specializing in **MERN Stack**  
+💬 Ask me about **React**, **Node.js**, **MongoDB**, or anything JavaScript  
+🧠 Currently learning **Next.js**, **TypeScript**, and **System Design**  
+📈 Solved **300+ DSA problems** on **LeetCode**, **CodeChef**, and **GeeksforGeeks**  
+🛠 Built 15+ real-world projects and counting...  
+🤝 Open to collaboration on open-source, hackathons, or freelance work  
+🎯 Focused on building scalable and performant web apps  
+⚡ Fun fact: I love turning complex ideas into simple, functional UI
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahnwajalam10&show_icons=true&theme=github_dark" alt="shahnwajalam10" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwajalam10&theme=github-dark" alt="shahnwajalam10" />
-</p>
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
----
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
 
-### 📌 Featured Projects
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render)
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔗 [SmartInventory_App](https://github.com/shahnwajalam10/SmartInventory_App) | Inventory manager with AI forecasting, QR/barcode support, and live collaboration | React, Node.js, MongoDB |
-| 🔗 [Pandawear](https://github.com/shahnwajalam10/pandawear) | E-commerce store for sneakers and T-shirts | React, Firebase, Vite |
-| 🔗 [Movie App](https://github.com/shahnwajalam10/movie-app) | Firebase-based movie app with full CRUD | React, Firebase, Context API |
-
----
-
-### 📫 Connect With Me
-
-- 📧 **Email:** [shahnwajalam10@gmsil.com](mailto:shahnwajalam10@gmsil.com)  
-- 💼 **Portfolio:** [my-portfolio-phi-roan-42.vercel.app](https://my-portfolio-phi-roan-42.vercel.app/)  
-- 🔗 **LinkedIn:** [linkedin.com/in/shahnwaj-alam-b08415206](https://www.linkedin.com/in/shahnwaj-alam-b08415206/)
-
----
-
-### 💡 Quote to Live By
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Chrome DevTools](https://img.shields.io/badge/-ChromeDevTools-black?style=flat-square&logo=google-chrome)
 
 ---
+
+🧪 Want me to neobrutalize the **rest of your README** like GitHub Stats, Projects, Contact Info?
+
+I can convert the **entire file** to match this bold, minimal, "brutalist" aesthetic.
+
+Would you like that?
