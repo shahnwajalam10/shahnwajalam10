@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" alt="waves" />
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" alt="waves" width="100%" />
 </p>
 
 <h1 align="center" style="font-family:monospace;">🧱 Hi, I'm Shahnwaj Alam 👋</h1>
