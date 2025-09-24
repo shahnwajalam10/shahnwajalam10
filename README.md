@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" alt="waves" />
 </p>
 
