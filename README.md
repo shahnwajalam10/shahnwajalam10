@@ -1,6 +1,6 @@
-<p>
+<h1>
   <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" alt="waves" width="100%" />
-</p>
+</h1>
 
 <h1 align="center" style="font-family:monospace;">🧱 Hi, I'm Shahnwaj Alam 👋</h1>
 <h3 align="center" style="font-family:monospace;">⚙️ MERN Stack Developer | 🧠 Problem Solver | 🚀 Always Building</h3>
