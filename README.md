@@ -1,6 +1,7 @@
 <h1>
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" alt="waves" width="100%" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="waves" width="100%" />
 </h1>
+
 
 <h1 align="center" style="font-family:monospace;">🧱 Hi, I'm Shahnwaj Alam 👋</h1>
 <h3 align="center" style="font-family:monospace;">⚙️ MERN Stack Developer | 🧠 Problem Solver | 🚀 Always Building</h3>
