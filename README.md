@@ -1,138 +1,217 @@
-# Shahnwaj Alam
+# 🧱 SHAHNWAJ ALAM
 
-Full Stack Developer specializing in MERN stack. I build clean, functional web applications and solve problems through code.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahnwajalam10&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-## Tech Stack
-
-<details>
-<summary><b>Frontend</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Backend & Database</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Tools & Deployment</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-</details>
-
-## Currently Learning
-
-```typescript
-const currentFocus = {
-  frameworks: ["Next.js"],
-  languages: ["TypeScript"],
-  concepts: ["System Design", "Architecture Patterns"]
-};
+```ascii
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  FULL STACK DEVELOPER  •  MERN SPECIALIST  •  PROBLEM SOLVER ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-## Featured Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahnwajalam10&label=VIEWS&color=black&style=flat-square" alt="profile views" />
+</p>
+
+---
+
+## ⚡ TECH ARSENAL
+
+<details open>
+<summary><b>🎨 FRONTEND WEAPONS</b></summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  ⚛️  REACT       🔄 REDUX        🎨 TAILWIND CSS       │
+│  📜 JAVASCRIPT   🌐 HTML5        🎭 CSS3               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+![React](https://img.shields.io/badge/⚛_REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000&color=61DAFB)
+![Redux](https://img.shields.io/badge/🔄_REDUX-000000?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=000000&color=764ABC)
+![TailwindCSS](https://img.shields.io/badge/🎨_TAILWIND-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=000000&color=06B6D4)
+![JavaScript](https://img.shields.io/badge/📜_JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000&color=F7DF1E)
+
+</details>
+
+<details open>
+<summary><b>⚙️ BACKEND ARTILLERY</b></summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🟢 NODE.JS      ⚡ EXPRESS      🍃 MONGODB            │
+│  🐆 MONGOOSE     🔐 JWT          🔥 REST APIs          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+![Node.js](https://img.shields.io/badge/🟢_NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=000000&color=339933)
+![Express](https://img.shields.io/badge/⚡_EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000&color=FFFFFF)
+![MongoDB](https://img.shields.io/badge/🍃_MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000&color=47A248)
+
+</details>
+
+<details open>
+<summary><b>🛠️ DEVTOOLS & DEPLOYMENT</b></summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  🔧 GIT          🐙 GITHUB       📮 POSTMAN            │
+│  🚀 VERCEL       🌐 NETLIFY      🔥 FIREBASE           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+![Git](https://img.shields.io/badge/🔧_GIT-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000&color=F05032)
+![Vercel](https://img.shields.io/badge/🚀_VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000&color=FFFFFF)
+![Postman](https://img.shields.io/badge/📮_POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=000000&color=FF6C37)
+
+</details>
+
+---
+
+## 🎯 CURRENT MISSION
+
+```typescript
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║  const learning = {                                   ║
+║    frameworks: ["Next.js"],                           ║
+║    languages: ["TypeScript"],                         ║
+║    studying: ["System Design", "Architecture"],       ║
+║    status: "GRINDING 🔥"                              ║
+║  };                                                   ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🚀 PROJECT SHOWCASE
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="border: 3px solid #000;">
 
 ### 🎯 [SmartInventory App](https://github.com/shahnwajalam10/SmartInventory_App)
 
-Inventory manager with AI-powered features
+```
+┏━━━━━━━━━━━━━━━━━━━━━━┓
+┃ AI-POWERED INVENTORY ┃
+┃ QR/BARCODE SCANNING  ┃
+┃ REAL-TIME COLLAB     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-**Tech:** React • Node.js • MongoDB
+**🔧 STACK:** React • Node • MongoDB
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 3px solid #000;">
 
 ### 👟 [Pandawear](https://github.com/shahnwajalam10/pandawear)
 
-Ecommerce platform for sneakers and apparel
+```
+┏━━━━━━━━━━━━━━━━━━━━━━┓
+┃ ECOMMERCE PLATFORM   ┃
+┃ SNEAKERS & APPAREL   ┃
+┃ FULL CART SYSTEM     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-**Tech:** React • Firebase • Vite
+**🔧 STACK:** React • Firebase • Vite
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" style="border: 3px solid #000;">
 
 ### 🎬 [Movie App](https://github.com/shahnwajalam10/movie-app)
 
-Firebase-based movie database with CRUD
+```
+┏━━━━━━━━━━━━━━━━━━━━━━┓
+┃ MOVIE DATABASE       ┃
+┃ FULL CRUD OPS        ┃
+┃ FIREBASE BACKEND     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-**Tech:** React • Firebase • Context API
+**🔧 STACK:** React • Firebase • Context
 
 </td>
-<td width="50%">
+<td width="50%" style="border: 3px solid #000;">
 
 ### 👥 [DevConnector](https://github.com/shahnwajalam10/devconnector)
 
-Social network for developers
+```
+┏━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DEVELOPER NETWORK    ┃
+┃ SOCIAL PROFILES      ┃
+┃ POSTS & COMMENTS     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-**Tech:** React • Redux • Node.js
+**🔧 STACK:** React • Redux • Node
 
 </td>
 </tr>
 </table>
 
-## GitHub Stats
+---
+
+## 📊 STATS & ACHIEVEMENTS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahnwajalam10&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwajalam10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahnwajalam10&show_icons=true&theme=default&hide_border=false&border_color=000000&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_radius=0" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwajalam10&theme=react&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwajalam10&theme=default&hide_border=false&border=000000&background=FFFFFF&ring=000000&fire=FF6B6B&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000&sideLabels=000000&stroke=000000&border_radius=0" />
 </p>
 
-## Achievements
+```
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║  ☑ 300+ DSA PROBLEMS CRUSHED                          ║
+║  ☑ 50+ DAY LEETCODE STREAK                            ║
+║  ☑ 15+ PRODUCTION PROJECTS SHIPPED                    ║
+║  ☑ MASAI SCHOOL GRADUATE (MERN TRACK)                 ║
+║  ☑ OPEN SOURCE CONTRIBUTOR                            ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
 
-- [x] 300+ DSA problems solved
-- [x] 50+ day LeetCode streak
-- [x] 15+ production projects
-- [x] Masai School Graduate
+---
 
-## Let's Connect
+## 📡 CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:shahnwajalam10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000&color=EA4335" />
   </a>
   <a href="https://my-portfolio-phi-roan-42.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/in/shahnwaj-alam-b08415206/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000&color=0A66C2" />
   </a>
   <a href="https://twitter.com/shahnwaj_alam10">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/🐦_TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=000000&color=1DA1F2" />
   </a>
 </p>
 
+---
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                  ┃
+┃  💡 "CODE IS POETRY. DEBUG IS THE STRUGGLE."                     ┃
+┃                                                                  ┃
+┃  🚀 OPEN FOR: FREELANCE • COLLABORATIONS • STARTUPS              ┃
+┃                                                                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
 <p align="center">
-  <i>Open to collaborations on open source projects, freelance work, and startup opportunities.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 </p>
